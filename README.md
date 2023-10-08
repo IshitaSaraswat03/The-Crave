@@ -13,17 +13,6 @@ The Crave App offers the following advanced features:
 4. **Backend Integration:** Seamlessly connect with Firebase for efficient order management, real-time updates, and synchronization with the restaurant's backend systems.
 
 5. **User-Friendly Interface:** Enhance the customer experience with an intuitive and visually appealing app layout, navigation, and visuals optimized for effortless ordering.
-
-## Screenshots
-
-| Page 1 | Page 2 | Page 3 |
-|--------|--------|--------|
-| ![Page 1](/ima![login](https://github.com/IshitaSaraswat03/The-Crave/assets/120635713/559fba78-2b7b-4a04-83b5-be9c257d2316)
-ges/page1.png) | ![Page 2](/images/page2.png) | ![Page 3](/images/page3.png) |
-
-| Page 4 | Page 5 | Page 6 |
-|--------|--------|--------|
-| ![Page 4](/images/page4.png) | ![Page 5](/images/page5.png) | ![Page 6](/images/page6.png) |
    
 # Prerequisites
 Before running the app, ensure you have the following dependencies and tools installed:
