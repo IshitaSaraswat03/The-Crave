@@ -17,15 +17,15 @@ The Crave App offers the following advanced features:
 ## Screenshots
 | Login | SignUp| HomePage |HomePage|
 |--------|--------|--------|---------|
-| <img src="https://github.com/IshitaSaraswat03/The-Crave/assets/120635713/f4b355a8-223d-4519-b3f4-dcf578b8ee59" width="300"> | <img src="https://github.com/IshitaSaraswat03/The-Crave/assets/120635713/ad4da30d-a076-4abe-aa86-59a0039e55bb" width="300"> | <img src="https://github.com/IshitaSaraswat03/The-Crave/assets/120635713/ec0e4a05-3d93-49f5-8579-482013f1a58b" width="300"> | <img src="https://github.com/IshitaSaraswat03/The-Crave/assets/120635713/b87ad13f-f53b-4ace-a5e3-0dde6f2db439" width="300"> | 
+| <img src="https://github.com/IshitaSaraswat03/The-Crave/assets/120635713/f4b355a8-223d-4519-b3f4-dcf578b8ee59" width="300" height="500"> | <img src="https://github.com/IshitaSaraswat03/The-Crave/assets/120635713/ad4da30d-a076-4abe-aa86-59a0039e55bb" width="300" height="500"> | <img src="https://github.com/IshitaSaraswat03/The-Crave/assets/120635713/ec0e4a05-3d93-49f5-8579-482013f1a58b" width="300" height="500"> | <img src="https://github.com/IshitaSaraswat03/The-Crave/assets/120635713/b87ad13f-f53b-4ace-a5e3-0dde6f2db439" width="300" height="500"> | 
 ### 
 | Menu |Beverages| Main Course(Veg) | Main Course(Nonveg)|
 |-----------|----------|--------------|------------|
-| <img src="https://github.com/IshitaSaraswat03/The-Crave/assets/120635713/f4e4ca04-08ca-439f-b0d4-621be2fe90c5" width="300">| <img src="https://github.com/IshitaSaraswat03/The-Crave/assets/120635713/c79639d1-e483-42e0-818f-19e2666088b3" width="300"> |<img src="https://github.com/IshitaSaraswat03/The-Crave/assets/120635713/2ff128be-1598-4aea-964b-c1b4207b4f69" width="300" height="500"> | <img src="https://github.com/IshitaSaraswat03/The-Crave/assets/120635713/422661bd-f959-4739-a321-cfa1f56387db" width="300" height="500"> |
+| <img src="https://github.com/IshitaSaraswat03/The-Crave/assets/120635713/f4e4ca04-08ca-439f-b0d4-621be2fe90c5" width="300" height="500">| <img src="https://github.com/IshitaSaraswat03/The-Crave/assets/120635713/c79639d1-e483-42e0-818f-19e2666088b3" width="300" height="500"> |<img src="https://github.com/IshitaSaraswat03/The-Crave/assets/120635713/2ff128be-1598-4aea-964b-c1b4207b4f69" width="300" height="500"> | <img src="https://github.com/IshitaSaraswat03/The-Crave/assets/120635713/422661bd-f959-4739-a321-cfa1f56387db" width="300" height="500"> |
 ###
 | Starters | Deserts | Chinese| Recipe|
 |-----------|----------|----------|-------|
-| <img src="https://github.com/IshitaSaraswat03/The-Crave/assets/120635713/d1b0e37e-7b0a-45f9-8f3a-a8d77e0a1bd8" width="300">|<img src="https://github.com/IshitaSaraswat03/The-Crave/assets/120635713/b6659849-744f-4a2c-a814-29f792015e7f" width="300"> | <img src="https://github.com/IshitaSaraswat03/The-Crave/assets/120635713/086a3380-da3e-4731-8f43-44d5644cf203" width="300" height=670>| <img src="https://github.com/IshitaSaraswat03/The-Crave/assets/120635713/a2376e66-9f93-44e4-bcd5-1457610d07e0)" width="300" height=670>|
+| <img src="https://github.com/IshitaSaraswat03/The-Crave/assets/120635713/d1b0e37e-7b0a-45f9-8f3a-a8d77e0a1bd8" width="300" height="500">|<img src="https://github.com/IshitaSaraswat03/The-Crave/assets/120635713/b6659849-744f-4a2c-a814-29f792015e7f" width="300" height="500"> | <img src="https://github.com/IshitaSaraswat03/The-Crave/assets/120635713/086a3380-da3e-4731-8f43-44d5644cf203" width="300" height=500>| <img src="https://github.com/IshitaSaraswat03/The-Crave/assets/120635713/a2376e66-9f93-44e4-bcd5-1457610d07e0)" width="300" height=500>|
 
 # Prerequisites
 Before running the app, ensure you have the following dependencies and tools installed:
